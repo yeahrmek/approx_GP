@@ -1,1 +1,1 @@
-# approx_GP
+# Exact GP vs Approximate Gp
